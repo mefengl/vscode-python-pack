@@ -1,0 +1,28 @@
+{
+  "name": "python-pack",
+  "displayName": "Python Pack",
+  "description": "",
+  "version": "0.0.1",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "repository": "https://github.com/mefengl/vscode-python-pack",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow"
+  ]
+}

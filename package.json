@@ -1,6 +1,6 @@
 {
-  "name": "vscode-python-pack",
-  "displayName": "Python Pack",
+  "name": "kiss-python-pack",
+  "displayName": "KISS Python Pack",
   "description": "Python extensions I use, packaged up so they can be easily enabled and disabled all at once.",
   "version": "0.0.1",
   "author": "mefengl",

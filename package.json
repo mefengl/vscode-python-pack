@@ -15,7 +15,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.black-formatter",
+    "charliermarsh.ruff",
+    "alexcvzz.vscode-sqlite",
     "ms-python.debugpy",
     "ms-python.python",
     "ms-python.vscode-pylance",

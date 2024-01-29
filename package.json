@@ -2,7 +2,7 @@
   "name": "kiss-python-pack",
   "displayName": "KISS Python Pack",
   "description": "Python extensions I use, packaged up so they can be easily enabled and disabled all at once.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "mefengl",
   "publisher": "mefengl",
   "repository": "https://github.com/mefengl/vscode-python-pack",

@@ -1,5 +1,5 @@
 {
-  "name": "python-pack",
+  "name": "vscode-python-pack",
   "displayName": "Python Pack",
   "description": "Python extensions I use, packaged up so they can be easily enabled and disabled all at once.",
   "version": "0.0.1",
